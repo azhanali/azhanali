@@ -1,12 +1,12 @@
 <h1 align="center"Hola, I am Azhan Ali !👋</h1>
 
-
+<p>
 
   
                              🌱 I am currently an undergraduate student in NIT Hamirpur 🌱
 
 
-
+</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=azhanali&show_icons=true" alt="azhanali" /></p>
 
